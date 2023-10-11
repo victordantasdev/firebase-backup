@@ -1,4 +1,4 @@
-# Firebase Storage Backup App
+# 📁 Firebase Storage Backup App
 
 This Node.js application is designed to help you back up files from one Firebase Storage to another. It's built using TypeScript and can be easily run within a Docker container.
 
