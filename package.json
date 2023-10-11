@@ -1,0 +1,22 @@
+{
+  "name": "firebase-backup",
+  "version": "0.1.0",
+  "description": "",
+  "type": "module",
+  "main": "./dist/main.js",
+  "scripts": {
+    "start": "tsx ./src/main.ts",
+    "start:dev": "tsx watch ./src/main.ts",
+    "build": "tsc"
+  },
+  "keywords": [],
+  "author": "victordantasdeveloper@gmail.com",
+  "license": "ISC",
+  "devDependencies": {
+    "tsx": "^3.13.0",
+    "typescript": "^5.2.2"
+  },
+  "dependencies": {
+    "firebase": "^10.4.0"
+  }
+}
